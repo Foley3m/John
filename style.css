@@ -5,12 +5,13 @@ body {
     height: 100vh;
     margin: 0;
     background: linear-gradient(to right, #4b9cd3, #228b22); /* Carolina blue (#4b9cd3) to forest green (#228b22) */
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Geist', sans-serif;
 }
 
 .logo {
-    font-family: 'Lobster', cursive;
+    font-family: 'Geist', sans-serif;
     font-size: 5rem;
+    font-weight: bold;
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     text-transform: uppercase;
